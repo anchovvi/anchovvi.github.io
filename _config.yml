@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "potstickerrrrr"
 description              : "An amazing website."
-url                      : "https://minju-sin.github.io"
+url                      : "https://anchovvi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/profile.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -115,14 +115,14 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/minju-sin"
+      url: "https://github.com/anchovvi"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/minju-sin"
+      url: "https://github.com/anchovvi"
 # Reading Files
 include:
   - .htaccess
